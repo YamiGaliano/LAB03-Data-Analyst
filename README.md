@@ -42,6 +42,7 @@ Como parte del área de Data Analitycs de una empresa se nos solicita realizar u
 - Generamos wordcloud con las palabras en tittle. 
 
 #### 2. Dashboard.
+Link con el archivo: https://drive.google.com/drive/folders/1aqn6qdpijZWTmdElajg4WAEhBrrEhes3?usp=sharing
 - Generamos un dashboard con una hoja para cada plataforma de curso y una hoja de resumen para demostrar el análisis general.
 - Creamos medidas de cantidad de cursos en general, cantidad de cursos con rating positivo. 
 - Generamos una página de herramientas para Coursera.
