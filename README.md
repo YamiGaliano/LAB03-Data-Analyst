@@ -3,7 +3,7 @@
 
 <br>
 
-¡Hola! Soy *Yamila Galiano* y este es mi segundo proyecto del bootcamp de Data Science en SoyHenry, enfocado en Data Analyst.
+¡Hola! Soy *Yamila Galiano* y este es mi tercer proyecto del bootcamp de Data Science en SoyHenry, enfocado en Data Analyst.
 
 <hr>  
 
